@@ -1,0 +1,4 @@
+/vendor
+.git
+index.php
+Mysql.php

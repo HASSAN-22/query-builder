@@ -1,0 +1,27 @@
+{
+    "name": "hasan-22/query-builder",
+    "description": "PHP SQL query builder using PDO",
+    "keywords": [
+        "hasan",
+        "php",
+        "query builder",
+        "PDO"
+    ],
+    "homepage": "https://github.com/HASSAN-22/query-builder",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hasan",
+            "email": "armiaevil@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
